@@ -1,0 +1,1 @@
+# Pix Key Type Validator
